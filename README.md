@@ -1,2 +1,8 @@
-# portfolio
-my portfolio website
+TODO:
+Core:
+PORTF-1
+QOL:
+PORTF-2
+Optional:
+PORTF-3, PORTF-4
+
